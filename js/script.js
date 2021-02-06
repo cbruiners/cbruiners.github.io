@@ -1,4 +1,4 @@
-        function draw(csv) {
+        function draw() {
           "use strict";
 
           var margin = 0,
