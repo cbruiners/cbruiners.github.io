@@ -1,0 +1,23 @@
+category_label,question_label,value,avg
+Culture,Alignment,96,88
+Culture,Leadership,89,88
+Culture,Learning,79,88
+People,Focus,100,83
+People,Teams,82,83
+People,Cross Functional,66,83
+Process,Speed,92,82
+Process,Automation,86,82
+Process,Deployments,76,82
+Process,Practices,72,82
+Tools,Quality,62,49
+Tools,Infrastructure,48,49
+Tools,Visibility,44,49
+Tools,Monitoring,42,49
+Quality,Automation,56,45
+Quality,Business engagement,52,45
+Quality,Requirements,26,45
+Scale,Process,69,39
+Scale,Manage Finances,30,39
+Scale,Sell,19,39
+Scale,Infrastructure,33,31
+Scale,People,28,31
