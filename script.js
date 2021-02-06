@@ -105,14 +105,14 @@
 .attr('y', 270)
 .attr('width', 130)
 .attr('height', 60)
-.attr("xlink:href", "Skunkworks_wbck.svg")
+.attr("xlink:href", "assets/Skunkworks_wbck.svg")
 
 svg.append("svg:image")
 .attr('x', -25)
 .attr('y', -25)
 .attr('width', 50)
 .attr('height', 50)
-.attr("xlink:href", "Skunk_center_logo.svg")
+.attr("xlink:href", "assets/Skunk_center_logo.svg")
 
 //var url = "http://localhost:3000/api/charts";
 
